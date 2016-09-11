@@ -16,3 +16,23 @@ I upgraded the storage capacity of the server by adding 5 new hard drives.
 - 160GB Apple Drive for OS (Operating System) Storage of Ubuntu Server
 Case
 
+NZXT Source 220 (Black)
+server_case_new.jpg
+
+Networking Card
+nic_10GB.jpg
+10Gb NIC theoretical speed of 1GB/sec. But my the real life trasfer speed didnt refelect 1GB/sec but the max of the hard drives which was around 100MB/S
+
+
+Black update photo
+Mineturtle 2.0 After everything was installed, its got more drives slots, and is a nice shade of black < TOTALLY seriuse here>
+
+
+This is the server with the case and everything mostly wired up,
+Resons for the upgraded case
++~11 Drive bays (provided some of the hard drives are installed in janky locations)
++Color Not Black!
++Cleaner look
+server_old_fan.jpg
++cooling fans actually blowing on the hard drives
+For the most part im happy with the upgrade.

@@ -1,0 +1,18 @@
+The mineturtle server has underwent a lot of changes and upgrades to both the software and hard ware respectivly.
+Is now less of a FTP (File Trasport Protocol) server and more of a Media server,
+Software Updates
+Emby(upgraded to Plex) - free, but unpolished media sharing software.
+Plex - a media sharing application that make it seamless to view hosted movies on the hard drives in the server
+Transmission - is a bittorrent application that runs in the background downloading movies from the internet, while I sleep.
+Sickrage - this piece of software brings the whole project of media sharing to a new level, its job is to torrent movie/tv show files as they air. This in effect turns the server into a internet DVR. NOTE: sickrage sends all the bittorrent magnet links to Transmission to be downloaded at night (1:00 am - 6:00am).
+
+Hardware Upgrades
+Storage
+I upgraded the storage capacity of the server by adding 5 new hard drives. 
++3TB Western Digital
++1TB Seagate Specialized for Video playback
++2TB Hatachi
++2 X 500GB drives
+- 160GB Apple Drive for OS (Operating System) Storage of Ubuntu Server
+Case
+
